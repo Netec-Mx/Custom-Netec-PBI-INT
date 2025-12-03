@@ -1,4 +1,4 @@
-# Microsoft Power BI Intermedio
+# Custom Microsoft Power BI Intermedio
 
 **Plataforma de Laboratorios**
 
