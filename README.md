@@ -31,4 +31,4 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
  - [Práctica 5. XYZ](./Capítulo4/README.md)
    - **Descripción**: XYZ 
-   - ⏱️ **Duración estimada**: 45 minutos.
+   - ⏱️ **Duración estimada**: XYZ
