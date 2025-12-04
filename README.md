@@ -29,6 +29,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
    - **Descripción**: configurar la seguridad a nivel de filas en Power BI, estableciendo roles y reglas que limiten el acceso a los datos según las definiciones de seguridad. 
    - ⏱️ **Duración estimada**: 45 minutos.
 
- - [Práctica 5. XYZ](./Capítulo4/README.md)
-   - **Descripción**: XYZ 
-   - ⏱️ **Duración estimada**: XYZ
+  - [Práctica 5. Copilot en Power BI.](./Capítulo5/README.md)
+   - **Descripción**: Utilizar Copilot en Power BI para interactuar con los datos mediante lenguaje natural y generar visualizaciones automáticas.
+   - ⏱️ **Duración estimada**: 60 minutos.
